@@ -1,5 +1,12 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanyabaidina)](https://github.com/tanyabaidina/github-readme-stats)
+<h1 align="center">Hi there, I'm Tanya <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanyabaidina&theme=aura_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanyabaidina&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanyabaidina&theme=aura_dark&utcOffset=8)
+
+-----------------------------------------------------------------
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ![](https://komarev.com/ghpvc/?username=tanyabaidina)
 
