@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanyabaidina)](https://github.com/tanyabaidina/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=tanyabaidina)
 
 <!--
 **tanyabaidina/tanyabaidina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
